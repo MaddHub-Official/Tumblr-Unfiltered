@@ -1,0 +1,18 @@
+// ==UserScript==
+// @name        Tumblr Unfiltered
+// @namespace   Violentmonkey Scripts
+// @match       https://www.tumblr.com/*
+// @grant       GM_addStyle
+// @version     1.0
+// @author      maddjester
+// @description 2/16/2024, 5:25:08 PM
+// ==/UserScript==
+
+
+(function() {
+    'use strict';
+    GM_addStyle('div[data-testid="community-label-cover"] { display: none !important; }');
+})();
+
+
+
