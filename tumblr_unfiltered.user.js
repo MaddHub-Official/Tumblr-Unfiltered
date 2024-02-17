@@ -13,6 +13,7 @@
 // @updateURL   https://update.greasyfork.org/scripts/487478/Tumblr%20Unfiltered.user.js
 // @supportURL  https://discord.com/servers/maddhub-official-906957649956991036
 // ==/UserScript==
+
 (function() {
     'use strict';
     GM_addStyle('div[data-testid="community-label-cover"] { display: none !important; }');
