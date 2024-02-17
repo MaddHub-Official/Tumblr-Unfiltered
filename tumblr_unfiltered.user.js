@@ -1,6 +1,7 @@
 // ==UserScript==
-// @name        Tumblr Unfiltered
-// @namespace   MaddHub Scripts
+// @name        Tumblr: Unfiltered
+// @icon        https://cdn.discordapp.com/attachments/1158074207758995467/1158075364623523880/logo.png?ex=65db683a&is=65c8f33a&hm=96709f58bdafcfd8e8987fadb3ac688239f85cbd1a8e369b09db63083baa796e&
+// @namespace   MaddHub
 // @match       https://*.tumblr.com/*
 // @grant       GM_addStyle
 // @license     MIT
@@ -8,7 +9,8 @@
 // @author      maddjester
 // @description 2/16/2024, 5:25:08 PM - A simple CSS tweak to remove the mature warning filter overlays on flagged tumbler images and videos.
 // @downloadURL https://update.greasyfork.org/scripts/487478/Tumblr%20Unfiltered.user.js
-// @updateURL https://update.greasyfork.org/scripts/487478/Tumblr%20Unfiltered.user.js
+// @updateURL   https://update.greasyfork.org/scripts/487478/Tumblr%20Unfiltered.user.js
+// @supportURL  https://discord.com/servers/maddhub-official-906957649956991036
 // ==/UserScript==
 
 
