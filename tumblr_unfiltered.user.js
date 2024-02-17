@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Tumblr: Unfiltered
-// @icon        logo
+// @icon        download.png
 // @namespace   MaddHub
 // @match       https://*.tumblr.com/*
 // @grant       GM_addStyle
