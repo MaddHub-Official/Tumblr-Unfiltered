@@ -22,17 +22,16 @@ These instructions will get you a copy of the project up and running on your loc
 
 [Violentmonkey: Get It Here](https://violentmonkey.github.io/get-it/)
 
-- Follow the link to install the stable branch of the extension for whatever browser you are using.
+- Follow the link to install the stable branch of the extension for the specific **web browser** you are using.
 
 ### Installing
 
-- Visit GreasyFork to install:
+- Visit **GreasyFork** to install:
 
 [GreasyFork - Tumblr: Unfiltered](https://greasyfork.org/en/scripts/487478-tumblr-unfiltered)
 
-- Click on the Install button to add the script to your extension.
+- Click on the **Install** button to add the script to your extension.
 
-****
 ![Greasy Fork](greasy_fork.png)
 
 ## Usage <a name = "usage"></a>
