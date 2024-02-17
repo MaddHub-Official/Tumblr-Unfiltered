@@ -1,10 +1,9 @@
 // ==UserScript==
 // @name        Tumblr: Unfiltered
-// @icon        download.png
+// @icon        https://cdn.discordapp.com/attachments/1158074207758995467/1158075364623523880/logo.png?ex=65db683a&is=65c8f33a&hm=96709f58bdafcfd8e8987fadb3ac688239f85cbd1a8e369b09db63083baa796e&
 // @namespace   MaddHub
 // @match       https://*.tumblr.com/*
 // @grant       GM_addStyle
-// @resource logo https://cdn.discordapp.com/attachments/1158074207758995467/1158075364623523880/logo.png?ex=65db683a&is=65c8f33a&hm=96709f58bdafcfd8e8987fadb3ac688239f85cbd1a8e369b09db63083baa796e&
 // @license     MIT
 // @version     1.5.0
 // @author      maddjester
