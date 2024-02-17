@@ -1,4 +1,4 @@
-# Code Grabber
+# Tumblr: Unfiltered
 
 ## Table of Contents
 
@@ -10,7 +10,7 @@
 
 ## About <a name = "about"></a>
 
-A simple CSS tweak for Tumblr media that automatically hides the mature content community-label-cover on images and videos that are tagged: #mature
+A Tumblr tweak/mod userscript for media items that are tagged for mature audiences that will hide the annoying mature content warnings and buttons.
 
 ## Getting Started <a name = "getting_started"></a>
 
@@ -18,56 +18,22 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-- A userscript manager extension for your browser. Note: script was written and tested with: [Violentmonkey](https://violentmonkey.github.io/get-it/)
+- It is recommended to install a userscript manager extension for your browser. Note: script was written and tested with Violentmonkey which can be obtained from the link below.
 
-    ```
-    Follow the link for whichever browser you are using to install the extension
-    ```
+[Violentmonkey: Get It Here](https://violentmonkey.github.io/get-it/)
+
+- Follow the link to install the stable branch of the extension for whatever browser you are using.
 
 ### Installing
 
-Create a new virtual enviroment.
+- Visit GreasyFork to install:
 
-```
-mkdir env
-cd env
-python3 -m venv env
-```
+[GreasyFork - Tumblr: Unfiltered](https://greasyfork.org/en/scripts/487478-tumblr-unfiltered)
 
-Using Linux Teminal:
+- Click on the Install button to add the script to your extension.
 
-```
-source env/bin/activate
-```
-
-Using Windows Termninal:
-
-```
-env/bin/activate.bat //In CMD
-
-env/bin/Activate.ps1 //In Powershell
-```
-
-Install dependencies
-
-```
-python3 -m pip install -r requirements.txt
-```
+****
+![Greasy Fork](greasy_fork.png)
 
 ## Usage <a name = "usage"></a>
-
-To run open the app with the python interpreter.
-```
-python3 app.py
-```
-Visit: https://ai.google.dev/ and get your free API Token.
-
-![Get API Token](image-1.png)[https://ai.google.dev/]
-
-Enter your token and it will be saved for future use.
-
-![Enter Token](image-2.png)
-
-Enter the name of any Roblox game you want to retrieve codes for.
-
-![Getting Codes](image.png)
+- Installation is complete if you want to verify it is installed or if you want to remove or disable the script just click the extension icon in the menu bar of your browser to change or modify the settings at any time. ![Extension Menu](ext_menu.png)
