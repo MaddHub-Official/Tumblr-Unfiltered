@@ -18,9 +18,13 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-- It is recommended to install a userscript manager extension for your browser. Note: script was written and tested with Violentmonkey which can be obtained from the link below.
+- It is recommended to install a userscript manager extension for your **browser**. Note: script was written and tested with **Violentmonkey** which can be obtained from the link below.
 
 [Violentmonkey: Get It Here](https://violentmonkey.github.io/get-it/)
+
+- For more information about extension options or if you need **support** with installing an extension for your **browser** here you go:
+
+[GreasyFork - Installing User Scripts](https://greasyfork.org/en/help/installing-user-scripts)
 
 - Follow the link to install the stable branch of the extension for the specific **web browser** you are using.
 
