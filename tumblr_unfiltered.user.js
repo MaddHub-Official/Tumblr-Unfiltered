@@ -1,10 +1,9 @@
 // ==UserScript==
 // @name        Tumblr: Unfiltered
-// @icon        logo
+// @icon        https://primary.jwwb.nl/public/g/i/o/temp-ckosctcwkptnpwfunkxo/l3y0wp/image-17.png?enable-io=true&enable=downscale&width=16
 // @namespace   MaddHub
 // @match       https://*.tumblr.com/*
 // @grant       GM_addStyle
-// @resource logo https://primary.jwwb.nl/public/g/i/o/temp-ckosctcwkptnpwfunkxo/l3y0wp/image-17.png?enable-io=true&enable=downscale&width=16
 // @license     MIT
 // @version     1.4.4
 // @author      maddjester
