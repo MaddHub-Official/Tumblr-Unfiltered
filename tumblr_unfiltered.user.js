@@ -6,7 +6,7 @@
 // @grant       GM_addStyle
 // @resource logo https://primary.jwwb.nl/public/g/i/o/temp-ckosctcwkptnpwfunkxo/l3y0wp/image-17.png?enable-io=true&enable=downscale&width=16
 // @license     MIT
-// @version     1.4.3
+// @version     1.4.4
 // @author      maddjester
 // @description A simple CSS tweak to remove the mature warning filter overlays on flagged tumbler images and videos.
 // @updateURL   https://github.com/MaddHub-Official/Tumblr-Unfiltered/blob/main/tumblr_unfiltered.user.js
